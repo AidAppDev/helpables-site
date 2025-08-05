@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Helpables – A Platform for Compassionate Action</title>
+</head>
+<body>
+    <h1>Welcome to Helpables Aid App</h1>
+    <p><strong>A platform where kindness meets action!</strong></p>
+    <p>Discover aid requests from people in need and lend a helping hand effortlessly. Whether it's food, shelter, or essentials, you can make a real difference in someone's life. Browse verified requests, offer assistance, and be a hero in your community.</p>
+
+    <h2>About Helpables</h2>
+    <p>Helpables Aid App is a platform designed to connect compassionate individuals with those in need. Whether you’re looking to make a difference in your community or find people who need urgent assistance, this app makes it easy to browse, filter, and search for aid requests near you.</p>
+
+    <h2>Key Features</h2>
+    <ul>
+        <li><strong>Easy Sign-Up & Login</strong> – Register with your email or log in using Google for a seamless experience.</li>
+        <li><strong>Discover Aid Requests</strong> – Explore requests from different areas and find people in need of help.</li>
+        <li><strong>Smart Filtering & Search</strong> – Filter requests by category or location to find relevant cases quickly.</li>
+        <li><strong>Detailed Request Information</strong> – View the title, description, location, categories, subcategories, and images of each aid request.</li>
+        <li><strong>Engaging Visuals</strong> – Browse images uploaded by requesters to better understand their needs.</li>
+    </ul>
+
+    <h2>Who It's For</h2>
+    <p>Helpables Aid App is built for volunteers, donors, and anyone with a helping heart. The intuitive interface ensures you can find aid requests effortlessly, making it easier to contribute and support those who need it most.</p>
+
+    <h2>Get Involved</h2>
+    <p>Join Helpables Aid App today and start making a difference!</p>
+
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:anam@helpables.org">anam@helpables.org</a></p>
+</body>
+</html>
